@@ -1,0 +1,6 @@
+c:\users\tranq\onedrive\documents\visual studio 2013\Projects\BaiTapChuong4\BaiTapChuong4\obj\Debug\BaiTapChuong4.csprojResolveAssemblyReference.cache
+c:\users\tranq\onedrive\documents\visual studio 2013\Projects\BaiTapChuong4\BaiTapChuong4\bin\BaiTapChuong4.dll.config
+c:\users\tranq\onedrive\documents\visual studio 2013\Projects\BaiTapChuong4\BaiTapChuong4\bin\BaiTapChuong4.dll
+c:\users\tranq\onedrive\documents\visual studio 2013\Projects\BaiTapChuong4\BaiTapChuong4\bin\BaiTapChuong4.pdb
+c:\users\tranq\onedrive\documents\visual studio 2013\Projects\BaiTapChuong4\BaiTapChuong4\obj\Debug\BaiTapChuong4.dll
+c:\users\tranq\onedrive\documents\visual studio 2013\Projects\BaiTapChuong4\BaiTapChuong4\obj\Debug\BaiTapChuong4.pdb
